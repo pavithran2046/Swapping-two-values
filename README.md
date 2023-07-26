@@ -18,6 +18,19 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```python
+#Program to swap two values.
+#Developed by: pavithran
+#RegisterNumber:23001643
+num1,num2=float(input()),float(input())
+tep=num1
+num1=num2
+num2=tep
+print("Swapped values are:",num1,num2)
+```
+## output
+![output](/Screenshot%202023-07-26%20144219.png)
+
 
 
 
